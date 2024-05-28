@@ -1,2 +1,2 @@
 # RepoGroup
-Small Group Assignment
+Small Repo Group Assignment
