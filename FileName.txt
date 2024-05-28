@@ -1,3 +1,4 @@
 git pull is pulling info into gitbash
 git clone makes a copy & paste of a repo
 git push pushes info out
+git mv changes the name or can move a file to a different place
